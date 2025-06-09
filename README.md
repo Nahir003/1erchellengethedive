@@ -36,8 +36,8 @@ A corregir errores de lógica como repeticiones, estados inválidos y condicione
 A registrar cada jugada y resultado en una base de datos para futuros análisis.
 A usar programación orientada a objetos para estructurar todo el sistema de juego e IA.
 
-##Cómo ejecutar el juego
+## Cómo ejecutar el juego
 Desde la terminal, simplemente correr:
 
-'''bash
+''bash
 python challence_1_ratonygato.py
