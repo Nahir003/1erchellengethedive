@@ -39,5 +39,5 @@ A usar programación orientada a objetos para estructurar todo el sistema de jue
 ## Cómo ejecutar el juego
 Desde la terminal, simplemente correr:
 
-''bash
+```bash
 python challence_1_ratonygato.py
